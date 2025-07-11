@@ -1,0 +1,35 @@
+[33mcommit a60ca84718efdd69927f20197eb992ee781d2728[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Gladiatorxf <sameersethi2003@gmail.com>
+Date:   Sat Jul 12 00:50:20 2025 +0530
+
+    created separate folder for frontend
+
+[33mcommit 596eee8c02343d74b26b652c497497fc668e92c6[m
+Author: Gladiatorxf <sameersethi2003@gmail.com>
+Date:   Sat Jul 12 00:47:02 2025 +0530
+
+    added frontend backed linked them
+
+[33mcommit ad40f4671606132aadd84e8d46044c3d8c9a0a75[m
+Author: Gladiatorxf <sameersethi2003@gmail.com>
+Date:   Sat Jul 12 00:45:18 2025 +0530
+
+    websocket
+
+[33mcommit 961fa4992de27d0912be2faaca0cb050f17454e9[m
+Author: Gladiatorxf <sameersethi2003@gmail.com>
+Date:   Sat Jul 12 00:45:07 2025 +0530
+
+    sample recordings
+
+[33mcommit 30050ed8dcd1667b172232c091b9bb83dd0aa8fb[m
+Author: Gladiatorxf <sameersethi2003@gmail.com>
+Date:   Sat Jul 12 00:43:20 2025 +0530
+
+    created backend
+
+[33mcommit 602ed63cf14036c7f5a870e8eaf7ef9a4ba97aa4[m
+Author: Gladiatorxf <sameersethi2003@gmail.com>
+Date:   Sat Jul 12 00:42:58 2025 +0530
+
+    created needed components and pages files and folders
