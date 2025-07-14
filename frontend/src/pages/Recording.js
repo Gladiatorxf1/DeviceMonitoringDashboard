@@ -17,7 +17,7 @@ function Recordings() {
   const fetchRecordings = async () => {
     try {
       const res = await fetch(
-        `https://0c804fd8cb2a.ngrok-free.app/api/recordings/${deviceId}?date=${date}`,
+        `https://ea4578e9c899.ngrok-free.app/api/recordings/${deviceId}?date=${date}`,
         {
           headers: {
             "ngrok-skip-browser-warning": "true",
@@ -189,7 +189,7 @@ function Recordings() {
                     <td className="p-2 border">
                       {playingId === rec.id ? (
                         <audio
-                          src={`https://0c804fd8cb2a.ngrok-free.app/recordings/${rec.filename}`}
+                          src={`https://ea4578e9c899.ngrok-free.app/recordings/${rec.filename}`}
                           controls
                           autoPlay
                           onEnded={() => setPlayingId(null)}

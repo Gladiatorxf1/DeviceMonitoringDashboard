@@ -5,6 +5,7 @@ const pool = mysql.createPool({
   user: "root",
   password: "", // ← use your MySQL password if any (default in XAMPP is empty)
   database: "device_monitoring",
+  port: 3307,
 });
 
 module.exports = pool.promise();
